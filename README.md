@@ -1,1 +1,1 @@
- Watch the project live at :- clonehttps://netflix-clone-gouta.netlify.app
+ Watch the project live at :- https://netflix-clone-gouta.netlify.app
